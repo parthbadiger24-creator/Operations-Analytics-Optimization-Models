@@ -2,7 +2,7 @@
 
 > Three quantitative optimisation models — **Data Envelopment Analysis (DEA)**, **Linear Programming (LP)**, and **Network Flow Optimisation** — built and solved in **Excel Solver** for operations management decision-making.
 >
-> **BEMM462 — Operations Analytics, University of Exeter Business School**
+> **Operations Analytics**
 
 ---
 
